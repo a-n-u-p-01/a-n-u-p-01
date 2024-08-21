@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#020b1a;">Hi 👋, I'm Anupam Tarai</h1>
 <h3 align="center" style="color:#020b1a;">Passionate Backend Developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+🌱 I’m currently learning **Backend Development**
 
 <h3 align="left" style="color:#020b1a;">Languages and Tools:</h3>
 <p align="left">
@@ -34,12 +34,14 @@
   </a>
 </p>
 
+
 ---
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-n-u-p-01&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=020b1a&text_color=ffffff&title_color=ffffff&icon_color=4d4dff" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=a-n-u-p-01&show_icons=true&locale=en&theme=dark&bg_color=020b1a&text_color=ffffff&title_color=ffffff&icon_color=4d4dff" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=a-n-u-p-01&theme=dark&background=020b1a&ring=4d4dff&fire=ffffff&currStreakLabel=4d4dff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=a-n-u-p-01&show_icons=true&locale=en&theme=dark&bg_color=020b1a&text_color=ffffff&title_color=ffffff&icon_color=4d4dff" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=a-n-u-p-01&theme=dark&background=020b1a&ring=4d4dff&fire=ffffff&currStreakLabel=4d4dff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
+</div>
