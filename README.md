@@ -5,34 +5,43 @@
 
 <h3 align="left" style="color:#020b1a;">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" style="filter: brightness(0.5);"/>
+  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30" style="filter: brightness(0.5);"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="vertical-align: middle;"/>
   </a>
 </p>
+
 
 
 ---
