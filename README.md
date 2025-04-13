@@ -1,7 +1,4 @@
 <h1 align="center" style="color:#020b1a;">Hi 👋, I'm Anupam Tarai</h1>
-<h3 align="center" style="color:#020b1a;">Passionate Backend Developer from India</h3>
-
-🌱 I’m currently working.
 
 <h3 align="left" style="color:#020b1a;">Languages and Tools:</h3>
 <p align="left">
